@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+    font-size: 1.55em;
+    margin-top: 0 !important;
+}
+
+section {
+    background-color: #99ccc9;
+    border: 1px solid #00dd00;
+    margin: 0 0 25px 0;
+    padding: 0;
+}
+
+section h3 {
+    font-size: 1.25em;
+}
+
+section p {
+    padding: 0 6px 4px 6px;
+}
+
+.navbar-header {
+	margin-bottom: 20px;
+}
